@@ -23,9 +23,8 @@ jobs:
     - name: Updating the repository
       run: git push origin HEAD:${{ github.ref }}
     
-    - name: Notify slack
+    - name: Getting the commit hash
       env:
         SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
-      uses: pullreminders/slack-action@master
-      with:
-        args: '{\"channel\":\"CMR0875M3\",\"text\":\"The CSGames website was updated. See https://github.com/${{ github.repository }}/commit/$(git rev-parse HEAD)\"}'
+      run: |
+        curl -X POST -d "{\"channel\":\"CMR0875M3\",\"text\":\"The CSGames website was updated. See https://github.com/${{ github.repository }}/commit/$(git rev-parse HEAD)\"}" https://slack.com/api/chat.postMessage -H "Authorization: Bearer $SLACK_BOT_TOKEN" -H "Content-type: application/json"
