@@ -27,4 +27,4 @@ jobs:
       env:
         SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
       run: |
-        curl -X POST -d "{\"channel\":\"CMR0875M3\",\"text\":\"The CSGames website was updated. See https://github.com/${{ github.repository }}/commit/$(git rev-parse HEAD)\"}" https://slack.com/api/chat.postMessage -H "Authorization: Bearer $SLACK_BOT_TOKEN" -H "Content-type: application/json"
+        curl -X POST -d "{\"channel\":\"CMR0875M3\",\"text\":\"The CSGames :csgames: website was updated. See https://github.com/${{ github.repository }}/commit/$(git rev-parse HEAD)\"}" https://slack.com/api/chat.postMessage -H "Authorization: Bearer $SLACK_BOT_TOKEN" -H "Content-type: application/json"
