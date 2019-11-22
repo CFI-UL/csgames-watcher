@@ -23,7 +23,7 @@ jobs:
     - name: Updating the repository
       run: git push origin HEAD:${{ github.ref }}
     
-    - name: Getting the commit hash
+    - name: Notify Slack Channel
       env:
         SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
       run: |
