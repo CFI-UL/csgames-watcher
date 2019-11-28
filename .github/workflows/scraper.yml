@@ -10,7 +10,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-      
+
     - name: Scraping website
       run: wget -r http://2020.csgames.org
 
@@ -19,12 +19,13 @@ jobs:
 
     - name: Authenticating with the repository
       run: git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-      
+
     - name: Updating the repository
       run: git push origin HEAD:${{ github.ref }}
-    
+
     - name: Notify Slack channel
       env:
         SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+        SLACK_CHANNEL: ${{ secrets.SLACK_CHANNEL }}
       run: |
-        curl -X POST -d "{\"channel\":\"CMR0875M3\",\"text\":\"The CSGames :csgames: website was updated. See https://github.com/${{ github.repository }}/commit/$(git rev-parse HEAD)\"}" https://slack.com/api/chat.postMessage -H "Authorization: Bearer $SLACK_BOT_TOKEN" -H "Content-type: application/json"
+        curl -X POST -d "{\"channel\":\"$SLACK_CHANNEL\",\"text\":\"The CSGames :csgames: website was updated. See https://github.com/${{ github.repository }}/commit/$(git rev-parse HEAD)\"}" https://slack.com/api/chat.postMessage -H "Authorization: Bearer $SLACK_BOT_TOKEN" -H "Content-type: application/json"
