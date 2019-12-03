@@ -1,11 +1,11 @@
 # CSGames Scraper
 
-Envoie un message dans un "channel" Slack lorsque le site web des [CSGames](https://csgames.org/) change pour l'année courante.
+Send a message in a [Slack](https://slack.com/) channel when the [CSGames](https://csgames.org/) website of the next edition change.
 
-Ce projet utilise les [GitHub Actions](https://help.github.com/en/actions) pour automatiser le processus.
+This project uses [GitHub Actions](https://help.github.com/en/actions) to automate the process.
 
 ## Configuration
 
-Ajouter les secrets suivant au dépôt GitHub via dans la [section Secrets des Settings](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/creating-and-using-encrypted-secrets):
-- `SLACK_BOT_TOKEN` : le jeton Slack permettant de communiquer dans un "workspace" Slack.
-- `SLACK_CHANNEL` : l'identifiant du "channel" Slack.
+Add the following secrets in the GitHub repository [Secrets Settings](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/creating-and-using-encrypted-secrets):
+- `SLACK_BOT_TOKEN` : Slack token to access your workspace.
+- `SLACK_CHANNEL` : Slack channel id.
