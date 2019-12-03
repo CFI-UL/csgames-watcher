@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+
+function csgames_year {
+# The CSGames usually happens in March (03).
+  # - January (01) to March    (03) - Current year.
+  # - April   (04) to December (12) - Current year + 1.
+  month=$(date +"%m")
+  if [[ ($month = "01" || $month > "01") && ($month = "03" || $month < "03") ]]; then
+    echo $(date +"%Y")
+  else
+    echo $(date --date="1 year" +"%Y")
+  fi
+}
+
+function download_csgames_website {
+  year=$(csgames_year)
+  url="http://$year.csgames.org"
+  echo "Downloading $url"
+  wget -r $url &> /dev/null
+}
+
+download_csgames_website

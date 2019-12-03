@@ -2,7 +2,7 @@ name: Scraper
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '30 * * * *'
 
 jobs:
   build:
@@ -11,8 +11,10 @@ jobs:
     steps:
     - uses: actions/checkout@v1
 
-    - name: Scraping website
-      run: wget -r http://2020.csgames.org
+    - name: Updating website
+      env:
+        TZ: America/Montreal
+      run: bin/update-csgames-website
 
     - name: Commiting changes
       run: git add . && git -c user.name='Github Actions' -c user.email='github@frigon.app' commit -am "$(date)"
