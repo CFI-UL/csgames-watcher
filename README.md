@@ -1,4 +1,4 @@
-# CSGames Scraper
+# CSGames Watcher
 
 Send a message in a [Slack](https://slack.com/) channel when the [CSGames](https://csgames.org/) website of the next edition change.
 
