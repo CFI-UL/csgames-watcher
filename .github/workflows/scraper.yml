@@ -10,19 +10,21 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-      
-    - name: Scraping website
-      run: wget -r http://2020.csgames.org
+
+    - name: Updating website
+      env:
+        TZ: America/Montreal
+      run: bin/update-csgames-website
 
     - name: Commiting changes
       run: git add . && git -c user.name='Github Actions' -c user.email='github@frigon.app' commit -am "$(date)"
 
     - name: Authenticating with the repository
       run: git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-      
+
     - name: Updating the repository
       run: git push origin HEAD:${{ github.ref }}
-    
+
     - name: Notify Slack channel
       env:
         SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
