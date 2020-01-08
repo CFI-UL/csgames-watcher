@@ -16,7 +16,7 @@ function download_csgames_website {
   year=$(csgames_year)
   url="http://$year.csgames.org"
   echo "Downloading $url"
-  wget -r $url &> /dev/null
+  wget -r --content-on-error $url &> /dev/null
 }
 
 download_csgames_website
