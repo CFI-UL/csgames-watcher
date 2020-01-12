@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+set -x
 
 function csgames_year {
 # The CSGames usually happens in March (03).
