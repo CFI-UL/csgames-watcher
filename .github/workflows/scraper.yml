@@ -10,6 +10,9 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
+    
+    - name: Updating wget
+      run: apt-get -y install wget
 
     - name: Updating website
       env:
