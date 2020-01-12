@@ -12,7 +12,7 @@ jobs:
     - uses: actions/checkout@v1
     
     - name: Updating wget
-      run: apt-get -y install wget
+      run: sudo apt-get -y install wget
 
     - name: Updating website
       env:
