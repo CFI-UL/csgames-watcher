@@ -19,7 +19,7 @@ $.extend($.easing,
 
     $.fn.navScroller = function(options) {
         settings = $.extend({
-            scrollToOffset: 170,
+            scrollToOffset: 70,
             scrollSpeed: 800,
             activateParentNode: true,
         }, options );
@@ -72,7 +72,7 @@ $.extend($.easing,
 
 $(document).ready(function (){
 
-    $('nav li a').navScroller();
+    $('nav li:not(.p-lang) a').navScroller();
 
     //section divider icon click gently scrolls to reveal the section
 	$(".sectiondivider").on('click', function(event) {
