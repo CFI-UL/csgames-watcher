@@ -9,8 +9,8 @@
   <link rel="stylesheet" href="/combo.css">
   <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700|Staatliches&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
-  <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
-	<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+  <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
+	<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
 </head>
 <body>
   <div id="main">
