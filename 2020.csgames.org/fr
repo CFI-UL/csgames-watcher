@@ -163,6 +163,32 @@
 
 
   <div class="one-half column competition-card">
+    <h4 class="competition-title">Informatique théorique</h4>
+      <p>Avez-vous ce qu'il faut pour répondre aux questions abstraites des utilisateurs du Cloud™, la banque de savoir par correspondance moderne dont aucun révolutionnaire ne peut se passer ? Commandité par Pigeon Postal™.</p>
+      <p><strong>Langages/Compétences:</strong> Aversion pour la technologie développée après 1950</p>
+      <p><strong>Participants:</strong> 2</p>
+      <p><strong>Quoi apporter:</strong> Vos crayons et votre enthousiasme</p>
+      <p><strong>Pondération:</strong> TBA</p>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="one-half column competition-card">
+    <h4 class="competition-title">GSOFT - Ingénierie logicielle</h4>
+      <p>Travail d'équipe, coordination et planification seront de mise, car vous serez sans façon de communiquer pendant 2h! Serez-vous capable d'assembler une solution à temps?</p>
+      <p><strong>Langages/Compétences:</strong> Langage de programmation ton choix, JSON</p>
+      <p><strong>Participants:</strong> 3</p>
+      <p><strong>Quoi apporter:</strong> Papier et crayon pour faire des plans, schémas et autres brouillons</p>
+      <p><strong>Pondération:</strong> TBA</p>
+  </div>
+
+
+
+
+
+  <div class="one-half column competition-card">
     <h4 class="competition-title">Web</h4>
       <p>La rébellion a besoin de vous! Nous devons travailler ensemble afin de préserver nos connaissances. Vous avez été choisi par l'Undergrad Society afin de compléter un logiciel critique. Une interface utilisateur va devoir être créée afin de consumer les services d'une infrastructure qui a été abandonnée avant d'être terminée.</p>
       <p><strong>Langages/Compétences:</strong> JWT, OpenAPI et votre langage multi-plateforme préféré</p>
