@@ -137,6 +137,19 @@
 
 
   <div class="one-half column competition-card">
+    <h4 class="competition-title">Mobile</h4>
+      <p>Comme vous le savez très bien, les récents évènements politiques nous ont poussés à nos limites. Nous ne sommes plus dans une ère de découvertes technologiques sans fin. Afin de nous stabiliser dans ces temps difficiles, nous aurons besoin d'un nouveau moyen de tenir nos ennemis à distance et de protéger nos libertés. Pour ce faire, nous voulons que vous créiez une boite à outils de contrebandier!</p>
+      <p><strong>Langages/Compétences:</strong> Mobile, C#, Xamarin</p>
+      <p><strong>Participants:</strong> 2</p>
+      <p><strong>Quoi apporter:</strong> Téléphone Android ou iOS (Android API 26+ et iOS 11+), ordinateur portable, <a href="https://docs.microsoft.com/en-us/xamarin/ios/get-started/installation/device-provisioning/" style="color:blue">provisionnement iOS </a></p>
+      <p><strong>Pondération:</strong> À venir</p>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="one-half column competition-card">
     <h4 class="competition-title">Système d'exploitation</h4>
       <p>Sortez votre manuel Linux! Depuis la prohibition, les librairies qui faisaient tout pour toi sont bannies. Saurez-vous aider nos agents à l'aide de votre ingéniosité et votre librairie standard?</p>
       <p><strong>Langages/Compétences:</strong> C, C++, Rust, man</p>
@@ -145,16 +158,29 @@
       <p><strong>Pondération:</strong> TBA</p>
   </div>
 
+
+
+
+
+  <div class="one-half column competition-card">
+    <h4 class="competition-title">Relais</h4>
+      <p>"ATTAQUE ENNEMIE STOP. TROIS BASES COMPROMISES STOP. BESOIN RENFORT POUR MISSION EXTRACTION STOP. ZONE SOUS HAUTE SURVEILLANCE STOP. COMMUNICATION IMPOSSIBLE STOP." En acceptant cette mission, vous et vos collègues devrez résoudre trois défis séparés, mais soyez vigilants! Le gouvernement surveille vos moindres gestes et vous ne pourrez rester longtemps au même endroit. Bonne chance.</p>
+      <p><strong>Langages/Compétences:</strong> <br />Défi 1: GLSL (WebGL, three.js) <br />Défi 2: Python 3.8 (Pillow, requests) <br />Défi 3: Langage au choix</p>
+      <p><strong>Participants:</strong> 3</p>
+      <p><strong>Quoi apporter:</strong> N/A</p>
+      <p><strong>Pondération:</strong> À venir</p>
+  </div>
+
 </div>
 
 <div class="row">
 
   <div class="one-half column competition-card">
-    <h4 class="competition-title">Relais</h4>
-      <p>"ATTAQUE ENNEMIE STOP. TROIS BASES COMPROMISES STOP. BESOIN RENFORT POUR MISSION EXTRACTION STOP. ZONE SOUS HAUTE SURVEILLANCE STOP. COMMUNICATION IMPOSSIBLE STOP." En acceptant cette mission, vous et vos collègues devrez résoudre trois défis séparés, mais soyez vigilants! Le gouvernement surveille vos moindres gestes et vous ne pourrez rester longtemps au même endroit. Bonne chance.</p>
-      <p><strong>Langages/Compétences:</strong> À venir</p>
+    <h4 class="competition-title">Stéréovision</h4>
+      <p>Un groupe d’étudiants a créé un prototype de robot autonome pour qu’il puisse effectuer différentes tâches au service de la rébellion. Malheureusement, le groupe est capturé avant de pouvoir délivrer une version finale du produit. Vous avez été choisi pour reprendre le projet. Vous vous retrouvez dans la maison de Romain, un fidèle complice du mouvement. L’objectif est de permettre au robot de construire un modèle 3D de son environnement afin qu’il puisse l’utiliser dans ses déplacements. La carte 3D lui permettra de voir des obstacles qu’il ne peut voir avec ses capteurs 2D, tels que les pentes ou les escaliers.</p>
+      <p><strong>Langages/Compétences:</strong> C/C++, bases en mathématique, algèbre linéaire, aucune compétence en simulation requise.</p>
       <p><strong>Participants:</strong> 3</p>
-      <p><strong>Quoi apporter:</strong> N/A</p>
+      <p><strong>Quoi apporter:</strong> Installation du simulateur à code ouvert Coppelia Robotics, environnement de développement C/C++, ordinateur portable.</p>
       <p><strong>Pondération:</strong> À venir</p>
   </div>
 
@@ -168,7 +194,7 @@
       <p><strong>Langages/Compétences:</strong> Aversion pour la technologie développée après 1950</p>
       <p><strong>Participants:</strong> 2</p>
       <p><strong>Quoi apporter:</strong> Vos crayons et votre enthousiasme</p>
-      <p><strong>Pondération:</strong> TBA</p>
+      <p><strong>Pondération:</strong> À venir</p>
   </div>
 
 </div>
@@ -181,7 +207,7 @@
       <p><strong>Langages/Compétences:</strong> Langage de programmation ton choix, JSON</p>
       <p><strong>Participants:</strong> 3</p>
       <p><strong>Quoi apporter:</strong> Papier et crayon pour faire des plans, schémas et autres brouillons</p>
-      <p><strong>Pondération:</strong> TBA</p>
+      <p><strong>Pondération:</strong> À venir</p>
   </div>
 
 
