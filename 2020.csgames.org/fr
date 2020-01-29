@@ -98,6 +98,19 @@
 <div class="row">
 
   <div class="one-half column competition-card">
+    <h4 class="competition-title">Compilateur</h4>
+      <p>La prohibition a forcé la résistance à créer leur propre langage pour éviter d'être trouvée par le gouvernement. Ils ont besoin de votre aide pour développer un compilateur que le gouvernement ne pourra pas utiliser.</p>
+      <p><strong>Langages/Compétences:</strong> Au choix entre C, C++, C# (.NET Core), Java, Python, Ruby</p>
+      <p><strong>Participants:</strong> 2</p>
+      <p><strong>Quoi apporter:</strong> Ordinateur portable, votre environnement de développement favori</p>
+      <p><strong>Pondération:</strong> À venir</p>
+  </div>
+
+
+
+
+
+  <div class="one-half column competition-card">
     <h4 class="competition-title">Bases de données</h4>
       <p>Repoussez vos LIMITes, venez reJOINdre l'équipe des archivistes de l'ORDERgradSociety! Un GROUPe SELECT de hackers devra analyser une base de données TOP secrète volée par NULL autre que la rébellion. On COUNT(*) sur vous pour nous aider...</p>
       <p><strong>Langages/Compétences:</strong> Bases de données relationnelles, plus à venir</p>
@@ -106,9 +119,9 @@
       <p><strong>Pondération:</strong> À venir</p>
   </div>
 
+</div>
 
-
-
+<div class="row">
 
   <div class="one-half column competition-card">
     <h4 class="competition-title">Programmation extrème</h4>
@@ -119,9 +132,9 @@
       <p><strong>Pondération:</strong> À venir</p>
   </div>
 
-</div>
 
-<div class="row">
+
+
 
   <div class="one-half column competition-card">
     <h4 class="competition-title">Embarqué</h4>
@@ -132,9 +145,9 @@
       <p><strong>Pondération:</strong> À venir</p>
   </div>
 
+</div>
 
-
-
+<div class="row">
 
   <div class="one-half column competition-card">
     <h4 class="competition-title">Mobile</h4>
@@ -145,9 +158,9 @@
       <p><strong>Pondération:</strong> À venir</p>
   </div>
 
-</div>
 
-<div class="row">
+
+
 
   <div class="one-half column competition-card">
     <h4 class="competition-title">Système d'exploitation</h4>
@@ -158,9 +171,9 @@
       <p><strong>Pondération:</strong> TBA</p>
   </div>
 
+</div>
 
-
-
+<div class="row">
 
   <div class="one-half column competition-card">
     <h4 class="competition-title">Relais</h4>
@@ -171,9 +184,9 @@
       <p><strong>Pondération:</strong> À venir</p>
   </div>
 
-</div>
 
-<div class="row">
+
+
 
   <div class="one-half column competition-card">
     <h4 class="competition-title">Sécurité</h4>
@@ -184,9 +197,9 @@
       <p><strong>Pondération:</strong> À venir</p>
   </div>
 
+</div>
 
-
-
+<div class="row">
 
   <div class="one-half column competition-card">
     <h4 class="competition-title">Stéréovision</h4>
@@ -197,9 +210,9 @@
       <p><strong>Pondération:</strong> À venir</p>
   </div>
 
-</div>
 
-<div class="row">
+
+
 
   <div class="one-half column competition-card">
     <h4 class="competition-title">Informatique théorique</h4>
@@ -210,9 +223,9 @@
       <p><strong>Pondération:</strong> À venir</p>
   </div>
 
+</div>
 
-
-
+<div class="row">
 
   <div class="one-half column competition-card">
     <h4 class="competition-title">GSOFT - Ingénierie logicielle</h4>
@@ -223,9 +236,9 @@
       <p><strong>Pondération:</strong> À venir</p>
   </div>
 
-</div>
 
-<div class="row">
+
+
 
   <div class="one-half column competition-card">
     <h4 class="competition-title">Web</h4>
@@ -236,9 +249,8 @@
       <p><strong>Pondération:</strong> À venir</p>
   </div>
 
-
-
 </div>
+
 
         </div>
       </div>
