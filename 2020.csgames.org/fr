@@ -176,6 +176,19 @@
 <div class="row">
 
   <div class="one-half column competition-card">
+    <h4 class="competition-title">Sécurité</h4>
+      <p>Rebelles du monde, la prohibition ne nous empêchera pas de nous infiltrer dans les archives gouvernementales. Nous opérons dans l'ombre et de celle-ci surgira la prochaine ère des lumières ! Joignez-vous à nous pour renverser la récente décision en découvrant les secrets cachés par les gouvernements ! Nous vaincrons, de l'ombre, nous sortirons gagnants ! Joignez-nous ou craignez-nous !</p>
+      <p><strong>Langages/Compétences:</strong> Connaissance du Top 10 OWASP, de la sécurité applicative, la sécurité web, de la rétro-ingénierie, de la cryptographie...</p>
+      <p><strong>Participants:</strong> 2</p>
+      <p><strong>Quoi apporter:</strong> Votre ordinateur portable</p>
+      <p><strong>Pondération:</strong> À venir</p>
+  </div>
+
+
+
+
+
+  <div class="one-half column competition-card">
     <h4 class="competition-title">Stéréovision</h4>
       <p>Un groupe d’étudiants a créé un prototype de robot autonome pour qu’il puisse effectuer différentes tâches au service de la rébellion. Malheureusement, le groupe est capturé avant de pouvoir délivrer une version finale du produit. Vous avez été choisi pour reprendre le projet. Vous vous retrouvez dans la maison de Romain, un fidèle complice du mouvement. L’objectif est de permettre au robot de construire un modèle 3D de son environnement afin qu’il puisse l’utiliser dans ses déplacements. La carte 3D lui permettra de voir des obstacles qu’il ne peut voir avec ses capteurs 2D, tels que les pentes ou les escaliers.</p>
       <p><strong>Langages/Compétences:</strong> C/C++, bases en mathématique, algèbre linéaire, aucune compétence en simulation requise.</p>
@@ -184,9 +197,9 @@
       <p><strong>Pondération:</strong> À venir</p>
   </div>
 
+</div>
 
-
-
+<div class="row">
 
   <div class="one-half column competition-card">
     <h4 class="competition-title">Informatique théorique</h4>
@@ -197,9 +210,9 @@
       <p><strong>Pondération:</strong> À venir</p>
   </div>
 
-</div>
 
-<div class="row">
+
+
 
   <div class="one-half column competition-card">
     <h4 class="competition-title">GSOFT - Ingénierie logicielle</h4>
@@ -210,9 +223,9 @@
       <p><strong>Pondération:</strong> À venir</p>
   </div>
 
+</div>
 
-
-
+<div class="row">
 
   <div class="one-half column competition-card">
     <h4 class="competition-title">Web</h4>
@@ -223,8 +236,9 @@
       <p><strong>Pondération:</strong> À venir</p>
   </div>
 
-</div>
 
+
+</div>
 
         </div>
       </div>
