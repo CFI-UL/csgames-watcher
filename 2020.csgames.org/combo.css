@@ -661,6 +661,24 @@ html, body {
   
   
   
+  nav .p-competition_schedule { border-color: #9a844a; }
+  nav .p-competition_schedule.active { border-color: #ffffff; }
+  #competition_schedule { background-color: #ffffff !important; color: #111111; }
+  #competition_schedule a { color: #111111; }
+  #competition_schedule .sectiondivider { color: #ffffff; }
+
+  
+  
+  
+  nav .p-competition_schedule { border-color: #9a844a; }
+  nav .p-competition_schedule.active { border-color: #ffffff; }
+  #competition_schedule { background-color: #ffffff !important; color: #111111; }
+  #competition_schedule a { color: #111111; }
+  #competition_schedule .sectiondivider { color: #ffffff; }
+
+  
+  
+  
   nav .p-competition { border-color: #9a844a; }
   nav .p-competition.active { border-color: #ffffff; }
   #competition { background-color: #ffffff !important; color: #111111; }
@@ -1143,3 +1161,44 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+.calendar-table {
+    width: 100%;
+    border-spacing: 10px 0;
+    border-collapse: separate;
+  }
+  .table {
+    background-color: transparent;
+  }
+  .calendar-table .dark {
+    background: #9a844a;
+    color: rgba(255, 255, 255, 0.95);
+  }
+  .calendar-table .compe {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .calendar-table .light {
+    background: #fff;
+    color: #000000;
+  }
+  .calendar-table tbody tr td {
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px 0;
+  }
+  .calendar-table tbody tr th {
+    font-weight: 400;
+    text-align: right;
+  }
+  .calendar-table thead tr th {
+    text-align: center;
+    vertical-align: middle;
+    padding-bottom: 10px;
+    font-weight: 700;
+    font-size: 18px;
+  }
+  .calendar-table th {
+    color: #000000;
+    font-size: 18px;
+    vertical-align: middle;
+  }

@@ -27,6 +27,9 @@
         <li class="p-competition"><a href="#competition">Compétitions</a></li>
       
         
+        <li class="p-competition_schedule"><a href="#competition_schedule">Horaire des compétitions</a></li>
+      
+        
         <li class="p-getting_involved"><a href="#getting_involved">S'impliquer</a></li>
       
         
@@ -262,8 +265,130 @@
       <p><strong>Pondération:</strong> À venir</p>
   </div>
 
+</div>
 
 
+        </div>
+      </div>
+    
+      
+      <div id="competition_schedule" class="section p-competition_schedule">
+        
+
+        
+
+        <div class="container ">
+          
+          <h3 class="page-title">Horaire des compétitions</h3>
+          
+          <div class="table-responsive">
+  <table class="calendar-table">
+    <thead>
+      <tr>
+        <th></th>
+        <th>Vendredi le 13 mars</th>
+        <th>Samedi le 14 mars</th>
+        <th>Dimanche le 15 Mars</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>9h00</th>
+        <td class="light" rowspan="3"></td>
+        <td class="dark compe" rowspan="3">
+          <div>Système d'exploitation (OS)</div>
+          <br />
+          <div>Mobile</div>
+          <br />
+          Stéréovision
+        </td>
+        <td class="dark" rowspan="3">
+          <div>Sport</div>
+          <br />
+          <div>Programmation extrème</div>
+          <br />
+          <div>Hivestack</div>
+          <br />
+          <div>Squarepoint</div>
+        </td>
+      </tr>
+      <tr>
+        <th>10h00</th>
+      </tr>
+      <tr>
+        <th>11h00</th>
+      </tr>
+      <tr>
+        <th>12h00</th>
+        <td class="light" rowspan="1"></td>
+        <td class="light" rowspan="1">
+          Dîner
+        </td>
+        <td class="light" rowspan="1">
+          Dîner 
+        </td>
+      </tr>
+      <tr>
+        <th>13h00</th>
+        <td class="light" rowspan="1"></td>
+        <td class="dark" rowspan="3">
+          <div>Sécurité</div>
+          <br />
+          <div>Relais</div>
+          <br />
+          <div>Embarqué</div>
+        </td>
+        <td class="dark" rowspan="2">
+          <div>Activités avec les commanditaires</div>
+        </td>
+      </tr>
+      <tr>
+        <th>14h00</th>
+      </tr>
+      <tr>
+        <th>15h00</th>
+      </tr>
+      <tr>
+        <th>16h00</th>
+      </tr>
+      <tr>
+        <th>17h00</th>
+        <td class="light" rowspan="1">
+        Souper
+        </td>
+        <td class="light" rowspan="1">
+        Souper
+        </td>
+      </tr>
+      <tr>
+        <th>18h00</th>
+        <td class="dark" rowspan="3">
+          <div>Compilateur</div>
+          <br />
+          <div>Informatique théorique</div>
+          <br />
+          <div>Web</div>
+        </td>
+        <td class="dark" rowspan="3">
+          <div>Sécurité</div>
+          <br />
+          <div>GSOFT - Ingénierie logicielle</div>
+          <br />
+          <div>Base de données</div>
+        </td>
+        <td class="light" rowspan="3"></td>
+      </tr>
+      <tr>
+        <th>19h00</th>
+      </tr>
+      <tr>
+        <th>20h00</th>
+      </tr>
+            <tr>
+        <th>21h00</th>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
         </div>
