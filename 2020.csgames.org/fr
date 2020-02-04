@@ -106,7 +106,7 @@
       <p><strong>Langages/Compétences:</strong> Au choix entre C, C++, C# (.NET Core), Java, Python, Ruby</p>
       <p><strong>Participants:</strong> 2</p>
       <p><strong>Quoi apporter:</strong> Ordinateur portable, votre environnement de développement favori</p>
-      <p><strong>Pondération:</strong> À venir</p>
+      <p><strong>Pondération:</strong> 6%</p>
   </div>
 
 
@@ -116,10 +116,10 @@
   <div class="one-half column competition-card">
     <h4 class="competition-title">Bases de données</h4>
       <p>Repoussez vos LIMITes, venez reJOINdre l'équipe des archivistes de l'ORDERgradSociety! Un GROUPe SELECT de hackers devra analyser une base de données TOP secrète volée par NULL autre que la rébellion. On COUNT(*) sur vous pour nous aider...</p>
-      <p><strong>Langages/Compétences:</strong> Bases de données relationnelles, plus à venir</p>
+      <p><strong>Langages/Compétences:</strong> Postgresql</p>
       <p><strong>Participants:</strong> 2</p>
-      <p><strong>Quoi apporter:</strong> À venir</p>
-      <p><strong>Pondération:</strong> À venir</p>
+      <p><strong>Quoi apporter:</strong> N/A</p>
+      <p><strong>Pondération:</strong> 6%</p>
   </div>
 
 </div>
@@ -129,114 +129,10 @@
   <div class="one-half column competition-card">
     <h4 class="competition-title">Programmation extrème</h4>
       <p>Depuis que la prohibition du code a été voté, le domaine de l'informatique est en déclin. Les gouvernements n'avaient pas pensé qu'ils avaient énormément de requis logiciel. Afin d'éviter des problèmes internationaux du à des défaillances logiciels, l'ONU a décider d'intervenir en rendant public un site web où chaque pays a le droit d'exposer leur plus gros problème. Vous devrez essayer de tous les régler. Toutefois, il faudra respecter toutes les contraintes du pays pour que votre solution soit approuvé...</p>
-      <p><strong>Langages/Compétences:</strong> C, C++, Java, Python, Javascript et peut-être d'autres</p>
-      <p><strong>Participants:</strong> 2</p>
-      <p><strong>Quoi apporter:</strong> À venir</p>
-      <p><strong>Pondération:</strong> À venir</p>
-  </div>
-
-
-
-
-
-  <div class="one-half column competition-card">
-    <h4 class="competition-title">Embarqué</h4>
-      <p>Lors de cette compétition, les participants devront interagir avec les artefacts du passé (boîte noire), lorsque les technologies de pointe n'étaient pas interdites. Munis d'un Arduino et de diverses composantes électriques, les participants devront relever les différents défis proposés afin d'acquérir diverses connaissances sur de la technologie prohibée.</p>
-      <p><strong>Langages/Compétences:</strong> Arduino, électronique</p>
-      <p><strong>Participants:</strong> 2</p>
-      <p><strong>Quoi apporter:</strong> Votre propre ordinateur avec un environnement de développement pour Arduino</p>
-      <p><strong>Pondération:</strong> À venir</p>
-  </div>
-
-</div>
-
-<div class="row">
-
-  <div class="one-half column competition-card">
-    <h4 class="competition-title">Mobile</h4>
-      <p>Comme vous le savez très bien, les récents évènements politiques nous ont poussés à nos limites. Nous ne sommes plus dans une ère de découvertes technologiques sans fin. Afin de nous stabiliser dans ces temps difficiles, nous aurons besoin d'un nouveau moyen de tenir nos ennemis à distance et de protéger nos libertés. Pour ce faire, nous voulons que vous créiez une boite à outils de contrebandier!</p>
-      <p><strong>Langages/Compétences:</strong> Mobile, C#, Xamarin</p>
-      <p><strong>Participants:</strong> 2</p>
-      <p><strong>Quoi apporter:</strong> Téléphone Android ou iOS (Android API 26+ et iOS 11+), ordinateur portable, <a href="https://docs.microsoft.com/en-us/xamarin/ios/get-started/installation/device-provisioning/" style="color:blue">provisionnement iOS </a></p>
-      <p><strong>Pondération:</strong> À venir</p>
-  </div>
-
-
-
-
-
-  <div class="one-half column competition-card">
-    <h4 class="competition-title">Système d'exploitation</h4>
-      <p>Sortez votre manuel Linux! Depuis la prohibition, les librairies qui faisaient tout pour toi sont bannies. Saurez-vous aider nos agents à l'aide de votre ingéniosité et votre librairie standard?</p>
-      <p><strong>Langages/Compétences:</strong> C, C++, Rust, man</p>
+      <p><strong>Langages/Compétences:</strong> C, C++03, C++11, Java 8, Perl, Python2 ou Python3</p>
       <p><strong>Participants:</strong> 2</p>
       <p><strong>Quoi apporter:</strong> N/A</p>
-      <p><strong>Pondération:</strong> TBA</p>
-  </div>
-
-</div>
-
-<div class="row">
-
-  <div class="one-half column competition-card">
-    <h4 class="competition-title">Relais</h4>
-      <p>"ATTAQUE ENNEMIE STOP. TROIS BASES COMPROMISES STOP. BESOIN RENFORT POUR MISSION EXTRACTION STOP. ZONE SOUS HAUTE SURVEILLANCE STOP. COMMUNICATION IMPOSSIBLE STOP." En acceptant cette mission, vous et vos collègues devrez résoudre trois défis séparés, mais soyez vigilants! Le gouvernement surveille vos moindres gestes et vous ne pourrez rester longtemps au même endroit. Bonne chance.</p>
-      <p><strong>Langages/Compétences:</strong> <br />Défi 1: GLSL (WebGL, three.js) <br />Défi 2: Python 3.8 (Pillow, requests) <br />Défi 3: Langage au choix</p>
-      <p><strong>Participants:</strong> 3</p>
-      <p><strong>Quoi apporter:</strong> N/A</p>
-      <p><strong>Pondération:</strong> À venir</p>
-  </div>
-
-
-
-
-
-  <div class="one-half column competition-card">
-    <h4 class="competition-title">Sécurité</h4>
-      <p>Rebelles du monde, la prohibition ne nous empêchera pas de nous infiltrer dans les archives gouvernementales. Nous opérons dans l'ombre et de celle-ci surgira la prochaine ère des lumières ! Joignez-vous à nous pour renverser la récente décision en découvrant les secrets cachés par les gouvernements ! Nous vaincrons, de l'ombre, nous sortirons gagnants ! Joignez-nous ou craignez-nous !</p>
-      <p><strong>Langages/Compétences:</strong> Connaissance du Top 10 OWASP, de la sécurité applicative, la sécurité web, de la rétro-ingénierie, de la cryptographie...</p>
-      <p><strong>Participants:</strong> 2</p>
-      <p><strong>Quoi apporter:</strong> Votre ordinateur portable</p>
-      <p><strong>Pondération:</strong> À venir</p>
-  </div>
-
-</div>
-
-<div class="row">
-
-  <div class="one-half column competition-card">
-    <h4 class="competition-title">Sport</h4>
-      <p>Prêt au combat?</p>
-      <p><strong>Langages/Compétences:</strong> Des réflexes et de la précision</p>
-      <p><strong>Participants:</strong> 2</p>
-      <p><strong>Quoi apporter:</strong> Vêtements et souliers de sport</p>
-      <p><strong>Pondération:</strong> À venir</p>
-  </div>
-
-
-
-
-
-  <div class="one-half column competition-card">
-    <h4 class="competition-title">Stéréovision</h4>
-      <p>Un groupe d’étudiants a créé un prototype de robot autonome pour qu’il puisse effectuer différentes tâches au service de la rébellion. Malheureusement, le groupe est capturé avant de pouvoir délivrer une version finale du produit. Vous avez été choisi pour reprendre le projet. Vous vous retrouvez dans la maison de Romain, un fidèle complice du mouvement. L’objectif est de permettre au robot de construire un modèle 3D de son environnement afin qu’il puisse l’utiliser dans ses déplacements. La carte 3D lui permettra de voir des obstacles qu’il ne peut voir avec ses capteurs 2D, tels que les pentes ou les escaliers.</p>
-      <p><strong>Langages/Compétences:</strong> C/C++, bases en mathématique, algèbre linéaire, aucune compétence en simulation requise.</p>
-      <p><strong>Participants:</strong> 3</p>
-      <p><strong>Quoi apporter:</strong> Installation du simulateur à code ouvert Coppelia Robotics, environnement de développement C/C++, ordinateur portable.</p>
-      <p><strong>Pondération:</strong> À venir</p>
-  </div>
-
-</div>
-
-<div class="row">
-
-  <div class="one-half column competition-card">
-    <h4 class="competition-title">Informatique théorique</h4>
-      <p>Avez-vous ce qu'il faut pour répondre aux questions abstraites des utilisateurs du Cloud™, la banque de savoir par correspondance moderne dont aucun révolutionnaire ne peut se passer ? Commandité par Pigeon Postal™.</p>
-      <p><strong>Langages/Compétences:</strong> Aversion pour la technologie développée après 1950</p>
-      <p><strong>Participants:</strong> 2</p>
-      <p><strong>Quoi apporter:</strong> Vos crayons et votre enthousiasme</p>
-      <p><strong>Pondération:</strong> À venir</p>
+      <p><strong>Pondération:</strong> 6%</p>
   </div>
 
 
@@ -249,7 +145,7 @@
       <p><strong>Langages/Compétences:</strong> Langage de programmation ton choix, JSON</p>
       <p><strong>Participants:</strong> 3</p>
       <p><strong>Quoi apporter:</strong> Papier et crayon pour faire des plans, schémas et autres brouillons</p>
-      <p><strong>Pondération:</strong> À venir</p>
+      <p><strong>Pondération:</strong> 6%</p>
   </div>
 
 </div>
@@ -257,12 +153,168 @@
 <div class="row">
 
   <div class="one-half column competition-card">
+    <h4 class="competition-title">Embarqué</h4>
+      <p>Lors de cette compétition, les participants devront interagir avec les artefacts du passé (boîte noire), lorsque les technologies de pointe n'étaient pas interdites. Munis d'un Arduino et de diverses composantes électriques, les participants devront relever les différents défis proposés afin d'acquérir diverses connaissances sur de la technologie prohibée.</p>
+      <p><strong>Langages/Compétences:</strong> Arduino, électronique</p>
+      <p><strong>Participants:</strong> 2</p>
+      <p><strong>Quoi apporter:</strong> Votre propre ordinateur avec un environnement de développement pour Arduino</p>
+      <p><strong>Pondération:</strong> 6%</p>
+  </div>
+
+
+
+
+
+  <div class="one-half column competition-card">
+    <h4 class="competition-title">Hivestack - Géolocalisation</h4>
+      <p>Des membres de l’UndergradSociety ont réussi à prendre le contrôle de l’infrastructure de Hivestack que gère le contenu projeté sur les écrans d’affichages numériques installé partout dans la ville. Votre défi sera de projeter du contenu protechnologie en tentant de minimiser vos chances d'être vu par des agents du gouvernement.</p>
+      <p><strong>Langages/Compétences:</strong> Python3, Postgresql avec PostGIS</p>
+      <p><strong>Participants:</strong> 2</p>
+      <p><strong>Quoi apporter:</strong> Votre ordinateur portable avec Python3.7+ d’installé</p>
+      <p><strong>Pondération:</strong> 6%</p>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="one-half column competition-card">
+    <h4 class="competition-title">Mobile</h4>
+      <p>Comme vous le savez très bien, les récents évènements politiques nous ont poussés à nos limites. Nous ne sommes plus dans une ère de découvertes technologiques sans fin. Afin de nous stabiliser dans ces temps difficiles, nous aurons besoin d'un nouveau moyen de tenir nos ennemis à distance et de protéger nos libertés. Pour ce faire, nous voulons que vous créiez une boite à outils de contrebandier!</p>
+      <p><strong>Langages/Compétences:</strong> Mobile, C#, Xamarin</p>
+      <p><strong>Participants:</strong> 2</p>
+      <p><strong>Quoi apporter:</strong> Téléphone Android ou iOS (Android API 26+ et iOS 11+), ordinateur portable, <a href="https://docs.microsoft.com/en-us/xamarin/ios/get-started/installation/device-provisioning/" style="color:blue">provisionnement iOS </a></p>
+      <p><strong>Pondération:</strong> 6%</p>
+  </div>
+
+
+
+
+
+  <div class="one-half column competition-card">
+    <h4 class="competition-title">Système d'exploitation</h4>
+      <p>Sortez votre manuel Linux! Depuis la prohibition, les librairies qui faisaient tout pour toi sont bannies. Saurez-vous aider nos agents à l'aide de votre ingéniosité et votre librairie standard?</p>
+      <p><strong>Langages/Compétences:</strong> C, C++ or Rust, man</p>
+      <p><strong>Participants:</strong> 2</p>
+      <p><strong>Quoi apporter:</strong> N/A</p>
+      <p><strong>Pondération:</strong> 6%</p>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="one-half column competition-card">
+    <h4 class="competition-title">Relais</h4>
+      <p>"ATTAQUE ENNEMIE STOP. TROIS BASES COMPROMISES STOP. BESOIN RENFORT POUR MISSION EXTRACTION STOP. ZONE SOUS HAUTE SURVEILLANCE STOP. COMMUNICATION IMPOSSIBLE STOP." En acceptant cette mission, vous et vos collègues devrez résoudre trois défis séparés, mais soyez vigilants! Le gouvernement surveille vos moindres gestes et vous ne pourrez rester longtemps au même endroit. Bonne chance.</p>
+      <p><strong>Langages/Compétences:</strong> <br />Défi 1: GLSL (WebGL, three.js) <br />Défi 2: Python 3.8 (Pillow, requests) <br />Défi 3: Langage au choix</p>
+      <p><strong>Participants:</strong> 3</p>
+      <p><strong>Quoi apporter:</strong> N/A</p>
+      <p><strong>Pondération:</strong> 6%</p>
+  </div>
+
+
+
+
+
+  <div class="one-half column competition-card">
+    <h4 class="competition-title">Sécurité</h4>
+      <p>Rebelles du monde, la prohibition ne nous empêchera pas de nous infiltrer dans les archives gouvernementales. Nous opérons dans l'ombre et de celle-ci surgira la prochaine ère des lumières ! Joignez-vous à nous pour renverser la récente décision en découvrant les secrets cachés par les gouvernements ! Nous vaincrons, de l'ombre, nous sortirons gagnants ! Joignez-nous ou craignez-nous !</p>
+      <p><strong>Langages/Compétences:</strong> Connaissance du Top 10 OWASP, de la sécurité applicative, la sécurité web, de la rétro-ingénierie, de la cryptographie...</p>
+      <p><strong>Participants:</strong> 2</p>
+      <p><strong>Quoi apporter:</strong> Votre ordinateur portable</p>
+      <p><strong>Pondération:</strong> 6%</p>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="one-half column competition-card">
+    <h4 class="competition-title">Sport</h4>
+      <p>Prêt au combat?</p>
+      <p><strong>Langages/Compétences:</strong> Des réflexes et de la précision</p>
+      <p><strong>Participants:</strong> 2</p>
+      <p><strong>Quoi apporter:</strong> Vêtements et souliers de sport</p>
+      <p><strong>Pondération:</strong> 4%</p>
+  </div>
+
+
+
+
+
+  <div class="one-half column competition-card">
+    <h4 class="competition-title">Stéréovision</h4>
+      <p>Un groupe d’étudiants a créé un prototype de robot autonome pour qu’il puisse effectuer différentes tâches au service de la rébellion. Malheureusement, le groupe est capturé avant de pouvoir délivrer une version finale du produit. Vous avez été choisi pour reprendre le projet. Vous vous retrouvez dans la maison de Romain, un fidèle complice du mouvement. L’objectif est de permettre au robot de construire un modèle 3D de son environnement afin qu’il puisse l’utiliser dans ses déplacements. La carte 3D lui permettra de voir des obstacles qu’il ne peut voir avec ses capteurs 2D, tels que les pentes ou les escaliers.</p>
+      <p><strong>Langages/Compétences:</strong> C/C++, bases en mathématique, algèbre linéaire, aucune compétence en simulation requise.</p>
+      <p><strong>Participants:</strong> 3</p>
+      <p><strong>Quoi apporter:</strong> Installation du simulateur à code ouvert Coppelia Robotics, environnement de développement C/C++, ordinateur portable.</p>
+      <p><strong>Pondération:</strong> 6%</p>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="one-half column competition-card">
+    <h4 class="competition-title">Informatique théorique</h4>
+      <p>Avez-vous ce qu'il faut pour répondre aux questions abstraites des utilisateurs du Cloud™, la banque de savoir par correspondance moderne dont aucun révolutionnaire ne peut se passer ? Commandité par Pigeon Postal™.</p>
+      <p><strong>Langages/Compétences:</strong> Aversion pour la technologie développée après 1950</p>
+      <p><strong>Participants:</strong> 2</p>
+      <p><strong>Quoi apporter:</strong> Vos crayons et votre enthousiasme</p>
+      <p><strong>Pondération:</strong> 6%</p>
+  </div>
+
+
+
+
+
+  <div class="one-half column competition-card">
     <h4 class="competition-title">Web</h4>
       <p>La rébellion a besoin de vous! Nous devons travailler ensemble afin de préserver nos connaissances. Vous avez été choisi par l'Undergrad Society afin de compléter un logiciel critique. Une interface utilisateur va devoir être créée afin de consumer les services d'une infrastructure qui a été abandonnée avant d'être terminée.</p>
       <p><strong>Langages/Compétences:</strong> JWT, OpenAPI et votre langage multi-plateforme préféré</p>
       <p><strong>Participants:</strong> 2</p>
       <p><strong>Quoi apporter:</strong> Votre ordinateur portable</p>
-      <p><strong>Pondération:</strong> À venir</p>
+      <p><strong>Pondération:</strong> 6%</p>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="one-half column competition-card">
+    <h4 class="competition-title">Participation</h4>
+      <p>On a besoin de chacun d'entre vous afin d'infirmer les décisions du gouvernement. Qui va briller le plus dans cette ère sombre? </p>
+      <p><strong>Langages/Compétences:</strong> N/A</p>
+      <p><strong>Participants:</strong> Tout le monde</p>
+      <p><strong>Quoi apporter:</strong> Votre énergie et vos articles de délégations</p>
+      <p><strong>Pondération:</strong> 4%</p>
+  </div>
+
+
+
+
+
+  <div class="one-half column competition-card">
+    <h4 class="competition-title">Puzzle Hero</h4>
+      <p>Profitez de vos temps libres entre les compétitions pour résoudre diverses petites épreuves. C’est enfin l’opportunité de mettre vos connaissances les plus obscures à profit! Toutes vos expertises vous seront utiles!</p>
+      <p><strong>Langages/Compétences:</strong> Vos meilleurs atouts</p>
+      <p><strong>Participants:</strong> Tout le monde</p>
+      <p><strong>Quoi apporter:</strong> Votre ordinateur portable</p>
+      <p><strong>Pondération:</strong> 4%</p>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="one-half column competition-card">
+    <h4 class="competition-title">Choix des commanditaires</h4>
+      <p>À la fin de la rébellion, les commanditaires choisiront qui auront été leurs plus chers alliés au combat contre le gouvernement. </p>
+      <p><strong>Langages/Compétences:</strong> N/A</p>
+      <p><strong>Participants:</strong> Tout le monde</p>
+      <p><strong>Quoi apporter:</strong> N/A</p>
+      <p><strong>Pondération:</strong> 4%</p>
   </div>
 
 </div>
