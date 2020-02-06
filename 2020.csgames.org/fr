@@ -231,7 +231,7 @@
 <div class="row">
 
   <div class="one-half column competition-card">
-    <h4 class="competition-title">Sport</h4>
+    <h4 class="competition-title">Sports</h4>
       <p>Prêt au combat?</p>
       <p><strong>Langages/Compétences:</strong> Des réflexes et de la précision</p>
       <p><strong>Participants:</strong> 2</p>
@@ -369,13 +369,13 @@
           Stéréovision
         </td>
         <td class="dark" rowspan="3">
-          <div>Sport</div>
+          <div>Sports</div>
           <br />
           <div>Programmation extrème</div>
           <br />
-          <div>Hivestack</div>
+          <div>Hivestack - Géolocalisation</div>
           <br />
-          <div>Squarepoint</div>
+          <div>Squarepoint - Intelligence artificielle</div>
         </td>
       </tr>
       <tr>
