@@ -170,7 +170,7 @@
       <p>Des membres de l’UndergradSociety ont réussi à prendre le contrôle de l’infrastructure de Hivestack que gère le contenu projeté sur les écrans d’affichages numériques installé partout dans la ville. Votre défi sera de projeter du contenu protechnologie en tentant de minimiser vos chances d'être vu par des agents du gouvernement.</p>
       <p><strong>Langages/Compétences:</strong> Python3, Postgresql avec PostGIS</p>
       <p><strong>Participants:</strong> 2</p>
-      <p><strong>Quoi apporter:</strong> Votre ordinateur portable avec Python3.7+ d’installé</p>
+      <p><strong>Quoi apporter:</strong> Votre ordinateur portable, Python3.7+ avec Poetry</p>
       <p><strong>Pondération:</strong> 6%</p>
   </div>
 
@@ -536,6 +536,85 @@
 </ul>
 
 <p><a href="/sponsorship.pdf" target="_blank" class="btn btn-raised btn-primary">Plus d’information</a></p>
+
+<h2>Nos commanditaires</h2>
+
+<div class="slideshow-container">
+
+
+
+<div class="mySlides">
+  <h3>Platine</h3>
+  <img src="/img/sponsors_logos/Squarepoint.png" class="squarepoint" alt="Squarepoint" style="background-color:  #1d1d1b " />
+</div>
+
+<div class="mySlides">
+  <h3>Or</h3>
+  <img src="/img/sponsors_logos/Google.svg" class="google" alt="Google" style="background-color:  #1d1d1b " />
+</div>
+
+<div class="mySlides">
+  <h3>Or</h3>
+  <img src="/img/sponsors_logos/GSoft.png" class="" alt="GSoft" style="background-color:  #1d1d1b " />
+</div>
+
+<div class="mySlides">
+  <h3>Or</h3>
+  <img src="/img/sponsors_logos/Hivestack.png" class="hivestack" alt="Hivestack" style="background-color:  #1d1d1b " />
+</div>
+
+<div class="mySlides">
+  <h3>Argent</h3>
+  <img src="/img/sponsors_logos/PSPC.jpg" class="" alt="PSPC" style="background-color:  #1d1d1b " />
+</div>
+
+<div class="mySlides">
+  <h3>Argent</h3>
+  <img src="/img/sponsors_logos/AEETS.svg" class="aeets" alt="AÉÉTS" style="background-color:  white " />
+</div>
+
+<div class="mySlides">
+  <h3>Argent</h3>
+  <img src="/img/sponsors_logos/Bell.jpg" class="" alt="Bell" style="background-color:  #1d1d1b " />
+</div>
+
+<div class="mySlides">
+  <h3>Argent</h3>
+  <img src="/img/sponsors_logos/CSE.jpg" class="" alt="CSE" style="background-color:  #1d1d1b " />
+</div>
+
+<div class="mySlides">
+  <h3>Argent</h3>
+  <img src="/img/sponsors_logos/Desjardins.png" class="" alt="Desjardins" style="background-color:  #1d1d1b " />
+</div>
+
+<div class="mySlides">
+  <h3>Argent</h3>
+  <img src="/img/sponsors_logos/ESDC.png" class="" alt="ESDC" style="background-color:  #1d1d1b " />
+</div>
+
+<div class="mySlides">
+  <h3>Argent</h3>
+  <img src="/img/sponsors_logos/Hopper.png" class="" alt="Hopper" style="background-color:  #1d1d1b " />
+</div>
+
+<div class="mySlides">
+  <h3>Argent</h3>
+  <img src="/img/sponsors_logos/Mirego.png" class="" alt="Mirego" style="background-color:  #1d1d1b " />
+</div>
+
+<div class="mySlides">
+  <h3>Argent</h3>
+  <img src="/img/sponsors_logos/nexus.svg" class="" alt="Nexus innovations" style="background-color:  white " />
+</div>
+
+<div class="mySlides">
+  <h3>Argent</h3>
+  <img src="/img/sponsors_logos/Shopify.png" class="" alt="Shopify" style="background-color:  white " />
+</div>
+
+
+</div>
 
         </div>
       </div>
