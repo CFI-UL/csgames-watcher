@@ -182,8 +182,8 @@
     <h4 class="competition-title">Mobile</h4>
       <p>Comme vous le savez très bien, les récents évènements politiques nous ont poussés à nos limites. Nous ne sommes plus dans une ère de découvertes technologiques sans fin. Afin de nous stabiliser dans ces temps difficiles, nous aurons besoin d'un nouveau moyen de tenir nos ennemis à distance et de protéger nos libertés. Pour ce faire, nous voulons que vous créiez une boite à outils de contrebandier!</p>
       <p><strong>Langages/Compétences:</strong> Mobile, C#, Xamarin</p>
-      <p><strong>Participants:</strong> 2</p>
-      <p><strong>Quoi apporter:</strong> Téléphone Android ou iOS (Android API 26+ et iOS 11+), ordinateur portable, <a href="https://docs.microsoft.com/en-us/xamarin/ios/get-started/installation/device-provisioning/" style="color:blue">provisionnement iOS </a></p>
+      <p><strong>Participants:</strong> 3</p>
+      <p><strong>Quoi apporter:</strong> Téléphone Android ou iOS (Android API 26+ et iOS 11+), ordinateur portable, <a href="https://docs.microsoft.com/en-us/xamarin/ios/get-started/installation/device-provisioning/" style="color:blue">provisionnement iOS </a>, <a href="https://github.com/csgames/comp-2020-mobile-starterpack" style="color:blue">Projet de démarrage</a></p>
       <p><strong>Pondération:</strong> 6%</p>
   </div>
 
