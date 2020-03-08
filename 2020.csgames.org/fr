@@ -142,7 +142,7 @@
   <div class="one-half column competition-card">
     <h4 class="competition-title">GSOFT - Ingénierie logicielle</h4>
       <p>Travail d'équipe, coordination et planification seront de mise, car vous serez sans façon de communiquer pendant 2h! Serez-vous capable d'assembler une solution à temps?</p>
-      <p><strong>Langages/Compétences:</strong> Langage de programmation ton choix*, JSON</p>
+      <p><strong>Langages/Compétences:</strong> C++, C# (.NET Core), Java8, JavaScript, Python2, Python3 ou Ruby. JSON</p>
       <p><strong>Participants:</strong> 3</p>
       <p><strong>Quoi apporter:</strong> Papier et crayon pour faire des plans, schémas et autres brouillons</p>
       <p><strong>Pondération:</strong> 6%</p>
@@ -207,7 +207,7 @@
   <div class="one-half column competition-card">
     <h4 class="competition-title">Relais</h4>
       <p>"ATTAQUE ENNEMIE STOP. TROIS BASES COMPROMISES STOP. BESOIN RENFORT POUR MISSION EXTRACTION STOP. ZONE SOUS HAUTE SURVEILLANCE STOP. COMMUNICATION IMPOSSIBLE STOP." En acceptant cette mission, vous et vos collègues devrez résoudre trois défis séparés, mais soyez vigilants! Le gouvernement surveille vos moindres gestes et vous ne pourrez rester longtemps au même endroit. Bonne chance.</p>
-      <p><strong>Langages/Compétences:</strong> <br />Défi 1: GLSL (WebGL, three.js) <br />Défi 2: Python 3.8 (Pillow, requests) <br />Défi 3: Langage au choix*</p>
+      <p><strong>Langages/Compétences:</strong> <br />Défi 1: GLSL (WebGL, three.js) <br />Défi 2: Python 3.8 (Pillow, requests) <br />Défi 3: C++, C# (.NET Core), Java8, JavaScript, Perl, Python2, Python3 ou Ruby</p>
       <p><strong>Participants:</strong> 3</p>
       <p><strong>Quoi apporter:</strong> N/A</p>
       <p><strong>Pondération:</strong> 6%</p>
@@ -250,7 +250,7 @@
       <p><strong>Langages/Compétences:</strong> Python3, Réseau</p>
       <p><strong>Participants:</strong> 2</p>
       <p><strong>Quoi apporter:</strong> Votre ordinateur portable</p>
-      <p><strong>Pondération:</strong> À venir</p>
+      <p><strong>Pondération:</strong> 6%</p>
   </div>
 
 </div>
