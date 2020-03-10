@@ -194,7 +194,7 @@
   <div class="one-half column competition-card">
     <h4 class="competition-title">Système d'exploitation</h4>
       <p>Sortez votre manuel Linux! Depuis la prohibition, les librairies qui faisaient tout pour toi sont bannies. Saurez-vous aider nos agents à l'aide de votre ingéniosité et votre librairie standard?</p>
-      <p><strong>Langages/Compétences:</strong> C, C++ or Rust, man</p>
+      <p><strong>Langages/Compétences:</strong> C, C++ or Rust, man, pthread</p>
       <p><strong>Participants:</strong> 2</p>
       <p><strong>Quoi apporter:</strong> N/A</p>
       <p><strong>Pondération:</strong> 6%</p>
