@@ -589,128 +589,20 @@ html, body {
   
   
   
-  nav .p-contact { border-color: #9a844a; }
-  nav .p-contact.active { border-color: #ffffff; }
-  #contact { background-color: #111111 !important; color: #f8f8f8; }
-  #contact a { color: #f8f8f8; }
-  #contact .sectiondivider { color: #111111; }
+  nav .p-announcement { border-color: #9a844a; }
+  nav .p-announcement.active { border-color: #ffffff; }
+  #announcement { background-color: #121211 !important; color: #f8f8f8; }
+  #announcement a { color: #f8f8f8; }
+  #announcement .sectiondivider { color: #121211; }
 
   
   
   
-  nav .p-contact { border-color: #9a844a; }
-  nav .p-contact.active { border-color: #ffffff; }
-  #contact { background-color: #111111 !important; color: #f8f8f8; }
-  #contact a { color: #f8f8f8; }
-  #contact .sectiondivider { color: #111111; }
-
-  
-  
-  
-  nav .p-sponsors { border-color: #9a844a; }
-  nav .p-sponsors.active { border-color: #ffffff; }
-  #sponsors { background-color: #1d1d1b !important; color: #f8f8f8; }
-  #sponsors a { color: #f8f8f8; }
-  #sponsors .sectiondivider { color: #1d1d1b; }
-
-  
-  
-  
-  nav .p-sponsors { border-color: #9a844a; }
-  nav .p-sponsors.active { border-color: #ffffff; }
-  #sponsors { background-color: #1d1d1b !important; color: #f8f8f8; }
-  #sponsors a { color: #f8f8f8; }
-  #sponsors .sectiondivider { color: #1d1d1b; }
-
-  
-  
-  
-  nav .p-rule { border-color: #9a844a; }
-  nav .p-rule.active { border-color: #ffffff; }
-  #rule { background-color: #ffffff !important; color: #111111; }
-  #rule a { color: #111111; }
-  #rule .sectiondivider { color: #ffffff; }
-
-  
-  
-  
-  nav .p-rule { border-color: #9a844a; }
-  nav .p-rule.active { border-color: #ffffff; }
-  #rule { background-color: #ffffff !important; color: #111111; }
-  #rule a { color: #111111; }
-  #rule .sectiondivider { color: #ffffff; }
-
-  
-  
-  
-  nav .p-getting_involved { border-color: #9a844a; }
-  nav .p-getting_involved.active { border-color: #ffffff; }
-  #getting_involved { background-color: #ffffff !important; color: #111111; }
-  #getting_involved a { color: #111111; }
-  #getting_involved .sectiondivider { color: #ffffff; }
-
-  
-  
-  
-  nav .p-getting_involved { border-color: #9a844a; }
-  nav .p-getting_involved.active { border-color: #ffffff; }
-  #getting_involved { background-color: #ffffff !important; color: #111111; }
-  #getting_involved a { color: #111111; }
-  #getting_involved .sectiondivider { color: #ffffff; }
-
-  
-  
-  
-  nav .p-competition_schedule { border-color: #9a844a; }
-  nav .p-competition_schedule.active { border-color: #ffffff; }
-  #competition_schedule { background-color: #ffffff !important; color: #111111; }
-  #competition_schedule a { color: #111111; }
-  #competition_schedule .sectiondivider { color: #ffffff; }
-
-  
-  
-  
-  nav .p-competition_schedule { border-color: #9a844a; }
-  nav .p-competition_schedule.active { border-color: #ffffff; }
-  #competition_schedule { background-color: #ffffff !important; color: #111111; }
-  #competition_schedule a { color: #111111; }
-  #competition_schedule .sectiondivider { color: #ffffff; }
-
-  
-  
-  
-  nav .p-competition { border-color: #9a844a; }
-  nav .p-competition.active { border-color: #ffffff; }
-  #competition { background-color: #ffffff !important; color: #111111; }
-  #competition a { color: #111111; }
-  #competition .sectiondivider { color: #ffffff; }
-
-  
-  
-  
-  nav .p-competition { border-color: #9a844a; }
-  nav .p-competition.active { border-color: #ffffff; }
-  #competition { background-color: #ffffff !important; color: #111111; }
-  #competition a { color: #111111; }
-  #competition .sectiondivider { color: #ffffff; }
-
-  
-  
-  
-  nav .p-participate { border-color: #9a844a; }
-  nav .p-participate.active { border-color: #ffffff; }
-  #participate { background-color: #121211 !important; color: #f8f8f8; }
-  #participate a { color: #f8f8f8; }
-  #participate .sectiondivider { color: #121211; }
-
-  
-  
-  
-  nav .p-participate { border-color: #9a844a; }
-  nav .p-participate.active { border-color: #ffffff; }
-  #participate { background-color: #121211 !important; color: #f8f8f8; }
-  #participate a { color: #f8f8f8; }
-  #participate .sectiondivider { color: #121211; }
+  nav .p-announcement { border-color: #9a844a; }
+  nav .p-announcement.active { border-color: #ffffff; }
+  #announcement { background-color: #121211 !important; color: #f8f8f8; }
+  #announcement a { color: #f8f8f8; }
+  #announcement .sectiondivider { color: #121211; }
 
   
   
